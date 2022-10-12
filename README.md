@@ -1,4 +1,4 @@
-# HackerRank---The-Coin-Change-Problem
+# HackerRank---
 Questions for computer science interviews
 
 There are several coding interview questions on hackerrank. I solved all of them passing 100% of test cases except for "M-th to last" problem where i got 83.33% of test cases- i don't have access to the test cases that failed, and i cannot find any input that fails on my own.
